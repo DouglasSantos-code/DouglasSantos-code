@@ -1,6 +1,7 @@
 # Olá 👋, Eu sou Douglas D. Santos 
 
-💻 **Um Front-end Developer**
+Um Front-end Developer 💻
+---
 
 🚀Se aperfeiçoando dia após dia e procurando bons projetos desafiadores!
 
