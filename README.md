@@ -7,7 +7,7 @@ Um Front-end Developer 💻
 
 👨‍💻 Minha stack: HTML, CSS e JavaScript
 
-:book: Estudando: Firebase, Jquery, Bootstrap, Node.Js, ReactJs e Typescript
+:book: Estudando: Firebase, Bootstrap, Node.Js, ReactJs e Typescript
 
 ⚡ Curiosidades por tecnologias no sangue 😜 
 
