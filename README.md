@@ -3,7 +3,7 @@
 Um Front-end Developer 💻
 ---
 
-🚀Se aperfeiçoando dia após dia e procurando bons projetos desafiadores!
+🚀Se aperfeiçoando dia após dia com bons projetos desafiadores!
 
 👨‍💻 Minha stack: HTML, CSS e JavaScript
 
