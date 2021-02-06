@@ -7,7 +7,7 @@ Um Desenvolvedor em aplicaçoes Web 💻
 
 👨‍💻 Minha stack: HTML, CSS e JavaScript
 
-:book: Estudando: Firebase, Bootstrap, Node.Js, ReactJs e Typescript
+:book: Estudando: Bootstrap, Node.Js, MongoDB, ReactJs e Typescript
 
 ⚡ Curiosidades por tecnologias no sangue 😜 
 
