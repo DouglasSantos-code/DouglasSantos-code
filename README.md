@@ -1,6 +1,6 @@
 # Olá 👋, Eu sou Douglas D. Santos 
 
-Um Desenvolvedor em aplicaçoes Web 💻
+Desenvolvedor em aplicaçoes Web 💻
 ---
 
 🚀Se aperfeiçoando dia após dia com bons projetos desafiadores!
